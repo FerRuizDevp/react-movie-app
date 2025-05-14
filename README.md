@@ -2,6 +2,7 @@
 {
   "title": "Movie App (with React and API)",
   "description": "A search engine Movie App built with React and a public API. With a favorite section and favorite selection feature.",
+  "imagePreview": "https://github.com/user-attachments/assets/cf52abb6-45da-47bb-8a74-e2dcf9ccdf99",
   "githubLink": "https://github.com/FerRuizDevp/react-movie-app",
   "netlifyLink": "https://reactmovieappbyfer.netlify.app/",
   "tags": ["all-projects", "HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
