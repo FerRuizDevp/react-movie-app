@@ -1,12 +1,23 @@
-# React + Vite
+<!-- PROJECT_METADATA
+{
+  "title": "Movie App (with React and API)",
+  "description": "A search engine Movie App built with React and a public API. With a favorite section and favorite selection feature.",
+  "githubLink": "https://github.com/FerRuizDevp/react-movie-app",
+  "netlifyLink": "https://reactmovieappbyfer.netlify.app/",
+  "tags": ["all-projects", "HTML", "CSS", "JavaScript", "React", "API", "Vite-project", "react-app", "dynamic-design"]
+}
+-->
+# 🎬 Movie App (with React and API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+A search engine Movie App built with React and a public API. With a favorite section and favorite selection feature.
 
-Currently, two official plugins are available:
+## Preview
+![react-movie-app-1](https://github.com/user-attachments/assets/cf52abb6-45da-47bb-8a74-e2dcf9ccdf99)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![react-movie-app-2](https://github.com/user-attachments/assets/2605620f-ddd2-4836-a98e-e696961c3552)
 
-## Expanding the ESLint configuration
+## Live Demo 🌐 [View Live](https://reactmovieappbyfer.netlify.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Here is the link to the GitHub page: [GitHub-Page](https://ferruizdevp.github.io/react-movie-app/)
+
